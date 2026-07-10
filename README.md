@@ -26,8 +26,3 @@ L’analyse montre que l’Afrique du Sud et le Nigéria sont les marchés les p
 
 Python, Pandas, NumPy, Matplotlib, Seaborn
 
-## Pitch 
-lien : https://gamma.app/docs/Analyse-de-lAttractivite-des-Marches-EdTech-en-Afrique-Sub-Sahari-b7h5foamsxvukyg?mode=present#card-yoeoboexd2ad02t
-
-## Livrable
-lien : https://drive.google.com/drive/folders/1BvwreyLNq8WAZuxcbMYBNmkv2-An5pDZ?usp=sharing
