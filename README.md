@@ -22,6 +22,17 @@ Segmentation des pays en trois catégories (Tier 1, 2, 3)
 
 L’analyse montre que l’Afrique du Sud et le Nigéria sont les marchés les plus attractifs pour un déploiement à court terme. La réussite du projet dans ces pays nécessite toutefois la mise en place de partenariats locaux et institutionnels.
 
+## Reproduire l'analyse
+
+1. Téléchargez le jeu *Education Statistics* (EdStats) de la Banque mondiale : https://www.kaggle.com/datasets/theworldbank/education-statistics
+2. Placez `EdStatsData.csv`, `EdStatsCountry.csv` et `EdStatsSeries.csv` à côté du notebook. `EdStatsData.csv` n'est pas dans ce dépôt, car il est trop volumineux.
+3. Le notebook `analyse_attractivite_edtech.ipynb` a été écrit pour Google Colab et lit les fichiers dans `/content/`. En local, remplacez ce chemin par le dossier où se trouvent les fichiers.
+
+```bash
+pip install -r requirements.txt
+jupyter notebook analyse_attractivite_edtech.ipynb
+```
+
 ## Technologies
 
 Python, Pandas, NumPy, Matplotlib, Seaborn
